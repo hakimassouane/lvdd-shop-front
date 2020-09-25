@@ -1,2 +1,2 @@
-# lvdd-shop-front
-Back end of the lvdd shop extension
+# LVDD Shop extension | Front-end
+Front end of the lvdd shop extension
